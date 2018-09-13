@@ -1,0 +1,95 @@
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.WareHouseMis.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.WareHouseMis.pdb
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\EntLibContrib.Data.SQLite.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\MySql.Data.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\System.Data.SQLite.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.Framework.Commons.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.Pager.Entity.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Aspose.Words.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\log4net.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Aspose.Cells.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\org.in2bits.MyXls.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\NPOI.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Newtonsoft.Json.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\DotRas.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\NVelocity.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Ionic.Zip.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.Framework.Commons.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\WHC.Pager.Entity.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Aspose.Cells.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\org.in2bits.MyXls.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\NPOI.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\Newtonsoft.Json.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\bin\Debug\DotRas.xml
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.csprojResolveAssemblyReference.cache
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.dll
+C:\Work\1009框架CSBS Bootstrap\WHC-Winform框架\02-空白系统框架\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.pdb
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.WareHouseMis.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.WareHouseMis.pdb
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\EntLibContrib.Data.SQLite.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\MySql.Data.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\System.Data.SQLite.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.Commons.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Pager.Entity.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Aspose.Words.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\log4net.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Aspose.Cells.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\org.in2bits.MyXls.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\NPOI.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Newtonsoft.Json.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\DotRas.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\NVelocity.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Ionic.Zip.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.Commons.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Pager.Entity.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Aspose.Cells.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\org.in2bits.MyXls.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\NPOI.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Newtonsoft.Json.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\DotRas.xml
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.csprojResolveAssemblyReference.cache
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.dll
+C:\Work\智能社区\社区平台New\Project\WFCommunity\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.pdb
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.WareHouseMis.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.WareHouseMis.pdb
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\EntLibContrib.Data.SQLite.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\MySql.Data.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\System.Data.SQLite.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.Commons.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Pager.Entity.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Aspose.Words.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\log4net.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Aspose.Cells.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\org.in2bits.MyXls.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\NPOI.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\DotRas.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\NVelocity.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Ionic.Zip.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.Commons.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\WHC.Pager.Entity.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Aspose.Cells.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\org.in2bits.MyXls.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\NPOI.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\bin\Debug\DotRas.xml
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.dll
+C:\Project\Project\WFCommunity\WHC.WareHouseMis\obj\x86\Debug\WHC.WareHouseMis.pdb
